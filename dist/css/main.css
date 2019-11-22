@@ -1,4 +1,3 @@
-/* start compile form _reset.scss */
 html,
 body,
 ul,
@@ -12,10 +11,14 @@ body {
   background-color: #efefef;
 }
 
-/* end compile form _reset.scss */
-
 .title {
   color: teal;
+}
+
+.box {
+  -webkit-transform: rotate(-19deg);
+  -ms-transform: rotate(-19deg);
+  transform: rotate(-19deg);
 }
 
 /*# sourceMappingURL=main.css.map */
