@@ -40,8 +40,6 @@ body {
   transform: rotate(-19deg);
 }
 
-/* Start operator */
-
 .container {
   width: 100%;
 }
@@ -56,6 +54,24 @@ aside[role=complementary] {
   width: 31.25%;
 }
 
-/* end operator */
+.bg-red {
+  background: red;
+}
+
+.bg-yellow {
+  background: yellow;
+}
+
+.bg-blue {
+  background: blue;
+}
+
+.bg-teal {
+  background: teal;
+}
+
+.bg-orange {
+  background: orange;
+}
 
 /*# sourceMappingURL=main.css.map */
